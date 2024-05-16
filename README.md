@@ -1,6 +1,6 @@
-This package is to generate wallets in Initia network
+######This package is to generate wallets in Initia network######
 
-/// USER GUIDE \\\
+####USER GUIDE####
 
 1) Open the terminal
 2) npm i
