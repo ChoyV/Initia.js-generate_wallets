@@ -1,11 +1,22 @@
-######This package is to generate wallets in Initia network######
+# Initia Wallet Generator
 
-####USER GUIDE####
+This package is designed to generate wallets in the Initia network.
 
-1) Open the terminal
-2) npm i
-3) npx ts-node generate.ts {NUMBER OF WALLETS YOU NEED} (for ex. "npx ts-node generate.ts 5")
-4) Check your generated wallets in keys.json
+## User Guide
+
+Follow these steps to generate wallets using this package:
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your system.
+
+### Installation
+
+Open your terminal and install the necessary dependencies by running:
+
+
+npm install
+
 
 
 
